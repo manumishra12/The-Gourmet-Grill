@@ -1,5 +1,5 @@
 # The-Gourmet-Grill 🍽
-``` The Gourmet Grill. A Restaurant Website using Html ,CSS &amp; JS```
+``` The Gourmet Grill a Restaurant Website using Html ,CSS and JS```
 
 <p> 
   At The Gourmet Grill, we believe that the dining experience should be an immersive one, that's why we
@@ -11,10 +11,10 @@
 ``` Credits: Manu Mishra```
 
 <div float="right" width="400">
-  <img align="left" height="450" width="1200" src="Thumbnail.png" /> </a>
+  <img align="left" height="450" width="1200" src="Thumbnail.png">
 </div>
 
 <br>
-<hr>
+
 
 
