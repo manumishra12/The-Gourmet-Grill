@@ -11,7 +11,7 @@
 ``` Credits: Manu Mishra```
 
 <div float="right" width="400">
-  <img align="left" height="450" width="1200" src="Thumbnail.png">
+  <img align="left" height="530" width="1200" src="Thumbnail.png">
 </div>
 
 <br>
