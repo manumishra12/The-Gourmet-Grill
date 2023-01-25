@@ -3,7 +3,10 @@
 
 <p> 
   At The Gourmet Grill, we believe that the dining experience should be an immersive one, that's why we
-  have curated a menu that showcases the best of local and international cuisine.Our chefs are always experimenting with new flavors and techniques to bring you an ever-  changing menu of delicious and exciting dishes.
+  have curated a menu that showcases the best of local and international cuisine.
+</p> 
+<p>
+  Our chefs are always experimenting with new flavors and techniques to bring you an ever-  changing menu of delicious and exciting dishes.
 </p>
 
  <br>                     
